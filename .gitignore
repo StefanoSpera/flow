@@ -1,0 +1,17 @@
+/.idea/
+# Eclipse
+.settings/
+.metadata/
+.recommenders/
+.sonarlint/
+
+# Maven
+log/
+target/
+
+# Project
+*bin/
+*build/
+*release/
+*.project
+*.classpath
